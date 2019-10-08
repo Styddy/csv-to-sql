@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvToMySql", "CsvToMySql\CsvToMySql.csproj", "{4DE95B84-C856-42A8-97BF-FB8097CBA5B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DE95B84-C856-42A8-97BF-FB8097CBA5B7}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{4DE95B84-C856-42A8-97BF-FB8097CBA5B7}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{4DE95B84-C856-42A8-97BF-FB8097CBA5B7}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{4DE95B84-C856-42A8-97BF-FB8097CBA5B7}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B2784C6-F79C-4C03-9B50-3A34A5D29CFD}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.VersionControlPolicy = $1
+	EndGlobalSection
+EndGlobal
